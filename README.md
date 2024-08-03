@@ -1,1 +1,1 @@
-# OPTI---SCHEDULING-Smart-Time-Table-Generation-
+# OPTI-SCHEDULING-Smart-Time-Table-Generation
